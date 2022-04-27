@@ -1,0 +1,109 @@
+body{
+	margin-top: 5rem;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: brevia,sans-serif;
+font-weight: 400;
+font-style: normal;
+	color: #1E2363;
+}
+h1{
+	font-size:  56px;
+}
+h2{
+	font-size:28px  ;
+}
+p{
+	padding: .5rem;
+	background-color: #B0B2C9;
+	font-size: 18px;
+}
+/*.opening{
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	margin-left: 20rem;
+	margin-right: 20rem;
+}
+.opening div{
+	display: grid;
+	place-items: center;
+}
+.opening h1, p{
+	justify-self: start;
+	margin-left: 30rem;
+}
+
+*/
+.opening img{
+	width: 80%;
+	height: auto;
+}
+.opening{
+	margin-top: 20%;
+	margin-left: 15%;
+	height: 85vh;
+}
+.summary{
+	padding: 0;
+	grid-gap: 0;
+	display:grid;
+	height: 85vh;
+	place-items: center;
+}
+.summary div{
+	margin-top: -5rem;
+}
+.target-user{
+	height: 85vh;
+}
+.target-user img{
+	width: 50%;
+	height: auto;
+}
+.process{
+	display: grid;
+	place-items: center;
+	height: 85vh;
+}
+.wireframes-flow{
+	height: 85vh;
+}
+.visual-design{
+	height: 85vh;
+}
+.visual-design img{
+	width: 80%;
+	height: auto;
+}
+.wireframe{
+	width: 80%;
+	height: auto;
+}
+.reflection{
+	display: grid;
+	place-items: center;
+	height: 85vh;
+}
+.prototype{
+	height: 85vh;
+}
+.prototype .figures{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.figures p{
+	background-color: white;
+}
+
+.protype img{
+	width: 50%;
+	height: auto;
+}
+
+span{
+	color: black;
+	font-family: brevia,sans-serif;
+font-weight: 600;
+font-style: normal;
+}
